@@ -1,0 +1,2 @@
+## Vector DB Use Case
+Traditional databases like (SQL) uses exact word search( lexical search)  and hence they fail in this case where we need similar results. Traditional databases also lack contextual awareness. In this case vector databases are considered as suitable option. Vector databases perform semantic search. Vector database stores not words but embeddings and perform Cosine Similarity search to find the specific chunks whose coordinates most closely match the intent of the question.

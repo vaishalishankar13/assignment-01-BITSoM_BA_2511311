@@ -1,0 +1,36 @@
+[{
+"product_id": "ELEC-78291",
+"product_name": "Sony Barvia 75 Inches Television",
+"product_type":"electronic",
+"specifications":{
+"warrenty":"7 years",
+"material used":["glass", "plastic", "copper"],
+"display":"QLED",
+"Resolution":"Full HD" 
+},
+"voltage": "110V-240V",
+"price":30000
+},
+{
+"product_id": "CLOTH-10293",
+"product_type": "clothing",
+"brand": "unibic",
+"gender": "women",
+"type": "kurti",
+"variants": [
+      {"size": "S", "color": "pink"},
+      {"size": "M", "color": "orange"},
+      {"size": "L", "color": "Red"}
+  ],
+"price":2500,
+"material":"semi-cotton"
+},
+{
+"product_id": "GROC-44521",
+"product_type":"groceries",
+"product_name":"mango pickle",
+"ingredients":["raw mangoes", "turmeric powder", "mustard seeds", "red chilli powder", "salt" ],
+"expiry_date": "03-12-2028",
+"price":60
+}
+]
